@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Paul 👋
 
-<!--
-**pauldlly/pauldlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Finance Engineer building software, data-driven products and quantitative solutions.
 
-Here are some ideas to get you started:
+## Areas of interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software engineering
+- Quantitative finance
+- Financial markets and derivatives
+- Data analysis and modelling
+- Web and mobile development
+
+## Technologies
+
+**Languages:** Python, C++, SQL, TypeScript, Java  
+**Development:** React, React Native, NestJS, Expo  
+**Data & Infrastructure:** PostgreSQL, Supabase, Docker, Linux  
+**Analytics:** Power BI, Alteryx, VBA
+
+## Selected projects
+
+- Mobile applications published on iOS and Android
+
+## Contact
+
+[LinkedIn](https://www.bing.com/search?q=github&cvid=16aad3384dd1435a8112935aeb155b3d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDIxNDhqMGo5qAIAsAIA&FORM=ANAB01&PC=HCTS&ntref=1)
