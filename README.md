@@ -60,47 +60,30 @@ Quantitative finance project designed to price and compare financial options usi
 
 # Private Projects
 
-## B4F — Web & Mobile Platform
+## B4F — Web & Mobile Platform 
 
-Development of a complete event and ticketing ecosystem composed of a website, mobile application and administration platform.
+Complete digital platform for event management, ticket sales and promoter operations published on **iOS and Android**
+
+**Links:**
+[Website](https://b4-f-web.vercel.app/) · [App Store](https://apps.apple.com/fr/app/b4f-event/id6779312684)
 
 **Technologies:**
-`React` `React Native` `TypeScript` `Expo` `Supabase` `PostgreSQL`
+`React` `React Native` `TypeScript` `Expo` `Supabase` `PostgreSQL` `Node.js` `Vercel`
 
 **Key features:**
 
-* Event and ticket management
-* User authentication
-* Online and mobile payments
-* Sales and financial reporting
-* Promoter management
-* Multilingual interface
-* Administration dashboard
-* iOS and Android applications
+* Event, pack and ticket management (Notification, Localisation)
+* QR scanning, payment links and contactless payments (Tap2pay)
+* Promoter management: commissions, rent, payouts, targets and performance
+* Sales, revenue and event analytics
+* Customer ticket purchasing through referral links
+* Admin dashboard, multilingual interface and support tools
 
-**Result:**
-Mobile application published on iOS and Android, supported by a complete web platform and backend infrastructure.
+**Results:**
 
----
-
-## Made2Party — Mobile Application
-
-Development of a cross-platform mobile application for the event and nightlife industry.
-
-**Technologies:**
-`React Native` `TypeScript` `Expo`
-
-**Key features:**
-
-* Mobile-first user experience
-* Event-related services
-* Cross-platform architecture
-* Production deployment
-
-**Result:**
-Application published on iOS and Android.
-
----
+* **6,500+ tickets sold in 2026**
+* **€170K+ revenue generated**
+* **300+ events managed**
 
 # Contact
 
