@@ -18,7 +18,7 @@ Computer Science & Finance Engineer building software, data-driven products and 
 **Analytics:** Power BI, Alteryx, VBA
 
 ## Selected projects
-
+- Multi-Method Option Pricing Engine (Public)
 - B4F WEb (Public)
 - B4F Mobile applications published on iOS and Android (Private)
 - Made2Party Mobile applications published on iOS and Android (Private)
