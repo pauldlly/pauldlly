@@ -17,11 +17,17 @@ Computer Science & Finance Engineer building software, data-driven products and 
 **Data & Infrastructure:** PostgreSQL, Supabase, Docker, Linux  
 **Analytics:** Power BI, Alteryx, VBA
 
-## Selected projects
-- Multi-Method Option Pricing Engine (Public) 
-- B4F WEb  (Private)
-- B4F Mobile applications published on iOS and Android (Private)
-- Made2Party Mobile applications published on iOS and Android (Private)
+## Selected projects public
+
+**Finance:**
+- Multi-Method Option Pricing Engine
+
+## Selected projects private
+
+**Website & Mobile App :**
+- B4F Web
+- B4F Mobile applications published on iOS and Android
+- Made2Party Mobile applications published on iOS and Android 
 
 ## Contact
 
