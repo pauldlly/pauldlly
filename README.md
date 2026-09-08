@@ -1,7 +1,6 @@
 # Hi, I'm Paul
 
 Computer Science & Finance Engineer with a strong interest in software engineering, quantitative finance and financial markets.
-
 I build web and mobile applications, financial tools and data-driven solutions, from backend architecture and databases to user interfaces and quantitative models.
 
 ## About Me
@@ -12,8 +11,6 @@ I build web and mobile applications, financial tools and data-driven solutions, 
 * Data Analysis & Modelling
 * Web Development
 * Mobile Development
-
----
 
 ## Tech Stack
 
@@ -35,9 +32,7 @@ I build web and mobile applications, financial tools and data-driven solutions, 
 
 ---
 
-# Projects
-
-## Quantitative Finance
+# Public Projects 
 
 ### Multi-Method Option Pricing Engine
 
