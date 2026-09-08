@@ -19,6 +19,7 @@ Computer Science & Finance Engineer building software, data-driven products and 
 
 ## Selected projects
 
+- B4F WEb (Public)
 - B4F Mobile applications published on iOS and Android (Private)
 - Made2Party Mobile applications published on iOS and Android (Private)
 
