@@ -16,15 +16,15 @@ I build web and mobile applications, financial tools and data-driven solutions, 
 
 ### Languages
 
-`Python` `C++` `SQL` `TypeScript` `Java`
+`Python` `C++` `SQL` `TypeScript` `Java` `C#` `C`
 
 ### Web & Mobile
 
-`React` `React Native` `Expo` `NestJS`
+`React` `React Native` `Expo` `NestJS` `HTML` `CSS` `JavaScript`
 
 ### Data & Infrastructure
 
-`PostgreSQL` `Supabase` `Docker` `Linux`
+`PostgreSQL` `MySQL` `Supabase` `Docker` `Linux`
 
 ### Data & Analytics
 
